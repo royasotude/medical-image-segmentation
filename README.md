@@ -15,7 +15,7 @@ To address this issue, there is a compelling need to automate the segmentation p
 
 The provided image showcases a compelling example of the need for deep learning-based segmentation. Within this image, the stomach and intestines are distinguishable, but the complex contours and variations in shape pose a formidable challenge for manual delineation.
 
-![1](https://github.com/royasotude/medical-image-segmentation/assets/118993192/0deebd4b-39f4-4beb-8a3e-010dde60bb5b)
+                      ![1](https://github.com/royasotude/medical-image-segmentation/assets/118993192/0deebd4b-39f4-4beb-8a3e-010dde60bb5b)
 
 
 ## 2. Related Works
