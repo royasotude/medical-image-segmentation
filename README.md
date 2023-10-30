@@ -6,10 +6,10 @@
 <h1 align="center">Medica Image Segmentation</h1>
 </div>
 
-This repository serves as the template for the third project in the Deep Catalyst course, focusing on medical image segmentation. Explore and utilize this template to kickstart your own medical image segmentation projects, leverage best practices, and accelerate your journey into the world of precise medical diagnostics through deep learning.
-
 ## 1. Problem Statement
-In this section, you'll find a comprehensive overview of the problem being addressed in the project.
+Radiation oncologists strive to deliver precise and effective radiation therapy by directing X-ray beams towards tumors while minimizing exposure to healthy tissues, particularly the stomach and intestines. However, the daily variability in tumor and organ positions, as observed through medical imaging, necessitates manual delineation of the stomach and intestines by radiation oncologists. This manual segmentation process is both time-consuming and labor-intensive, resulting in treatment sessions that can extend from 15 minutes to an hour, which can be burdensome for patients.
+
+The current challenge in radiation therapy lies in automating the segmentation process to enhance efficiency and accuracy. Leveraging deep learning methods for medical image segmentation holds great promise for addressing this challenge. By automating the identification and delineation of the stomach and intestines in medical images, deep learning can significantly reduce the time required for this critical step, ultimately shortening treatment sessions and improving patient comfort.
 
 ## 2. Related Works
 This section explores existing research and solutions related to medical image segmentation. 
