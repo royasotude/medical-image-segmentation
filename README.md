@@ -14,9 +14,11 @@ This manual segmentation process is not only time-consuming and labor-intensive 
 To address this issue, there is a compelling need to automate the segmentation process in medical images, particularly for identifying the stomach and intestines. Deep learning methods offer a promising solution to enhance the efficiency and accuracy of this critical step in radiotherapy. By automating the identification and delineation of these organs, deep learning can significantly reduce the time required for this process, ultimately shortening treatment sessions and improving the overall experience for patients battling gastrointestinal cancer.
 
 The provided image showcases a compelling example of the need for deep learning-based segmentation. Within this image, the stomach and intestines are distinguishable, but the complex contours and variations in shape pose a formidable challenge for manual delineation.
+                      ![1](https://github.com/royasotude/medical-image-segmentation/assets/118993192/0573eaae-f61a-437b-a559-5e1b915211ca)
 
 
-                         ![1](https://github.com/royasotude/medical-image-segmentation/assets/118993192/d50fb0a7-67f6-4161-828a-10b51441efce)
+
+                
      
 
 
