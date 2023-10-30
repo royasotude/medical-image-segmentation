@@ -7,9 +7,11 @@
 </div>
 
 ## 1. Problem Statement
-Radiation oncologists strive to deliver precise and effective radiation therapy by directing X-ray beams towards tumors while minimizing exposure to healthy tissues, particularly the stomach and intestines. However, the daily variability in tumor and organ positions, as observed through medical imaging, necessitates manual delineation of the stomach and intestines by radiation oncologists. This manual segmentation process is both time-consuming and labor-intensive, resulting in treatment sessions that can extend from 15 minutes to an hour, which can be burdensome for patients.
+Gastrointestinal cancer patients often undergo radiotherapy as part of their treatment regimen. This therapeutic approach is designed to deliver precisely targeted radiation to tumors while sparing healthy tissues, such as the stomach and intestines. However, the challenge arises from the daily variations in tumor and organ positions, which necessitate the manual delineation of these organs by medical professionals.
 
-The current challenge in radiation therapy lies in automating the segmentation process to enhance efficiency and accuracy. Leveraging deep learning methods for medical image segmentation holds great promise for addressing this challenge. By automating the identification and delineation of the stomach and intestines in medical images, deep learning can significantly reduce the time required for this critical step, ultimately shortening treatment sessions and improving patient comfort.
+This manual segmentation process is not only time-consuming and labor-intensive but also extends the duration of treatment sessions. For patients already coping with the challenges of cancer, the added treatment time can be physically and emotionally taxing.
+
+To address this issue, there is a compelling need to automate the segmentation process in medical images, particularly for identifying the stomach and intestines. Deep learning methods offer a promising solution to enhance the efficiency and accuracy of this critical step in radiotherapy. By automating the identification and delineation of these organs, deep learning can significantly reduce the time required for this process, ultimately shortening treatment sessions and improving the overall experience for patients battling gastrointestinal cancer.
 
 ## 2. Related Works
 This section explores existing research and solutions related to medical image segmentation. 
