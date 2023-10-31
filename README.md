@@ -24,7 +24,14 @@ The provided image showcases a compelling example of the need for deep learning-
 
 
 ## 2. Related Works
-This section explores existing research and solutions related to medical image segmentation. 
+In the dynamic realm of medical image segmentation, several noteworthy contributions have significantly advanced the field. One of the most influential developments is the U-Net architecture, which introduced a highly effective convolutional neural network (CNN) framework for biomedical image segmentation. This innovation has been instrumental in various applications, from the precise delineation of organs in radiological images to the segmentation of individual cells in microscopic images.
+
+DeepLab, another seminal work, stands out for its role in semantic image segmentation. It has been widely adopted in medical imaging to achieve detailed object recognition and localization, allowing for a deeper understanding of the structures within medical images.
+
+Moreover, the 3D U-Net model has addressed the unique challenges associated with volumetric medical data. With its ability to segment three-dimensional images, it has been applied to tasks like tumor and organ delineation, providing critical support for medical diagnosis and treatment planning.
+
+These related works represent a strong foundation upon which medical image segmentation continues to build. They have significantly enhanced our ability to extract meaningful information from complex medical images, ultimately benefiting healthcare professionals and researchers in their quest to improve diagnostics and treatment outcomes.
+
 
 ## 3. The Proposed Method
 Here, the proposed approach for solving the problem is detailed. It covers the algorithms, techniques, or deep learning models to be applied, explaining how they address the problem and why they were chosen.
