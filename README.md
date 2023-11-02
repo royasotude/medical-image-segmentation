@@ -34,7 +34,14 @@ These related works represent a strong foundation upon which medical image segme
 
 
 ## 3. The Proposed Method
-Here, the proposed approach for solving the problem is detailed. It covers the algorithms, techniques, or deep learning models to be applied, explaining how they address the problem and why they were chosen.
+For the task of intestines and stomach segmentation in medical images, my proposed method is based on the U-Net architecture. U-Net, in this context, is constructed using convolutional layers and tailored to the specific needs of gastrointestinal organ segmentation.
+
+The U-Net architecture comprises a contracting path and an expanding path. The contracting path begins with the input medical image and is composed of a series of convolutional layers followed by pooling layers. These convolutional layers progressively reduce the spatial dimensions while increasing the number of feature channels. This step extracts features relevant to intestines and stomach in various scales and complexities.
+
+The expanding path, or decoder, consists of transposed convolutional layers. This path gradually restores the spatial dimensions to generate the final segmentation masks for intestines and stomach. Importantly, the architecture includes skip connections, which directly link encoder layers to their corresponding decoder layers. These skip connections enable the network to maintain both fine-grained spatial information and high-level semantic context, ensuring precise localization and segmentation of the gastrointestinal organs. This customized U-Net architecture, designed for intestines and stomach segmentation, takes advantage of its ability to capture intricate details and localize specific structures within medical images.
+
+![image](https://github.com/royasotude/medical-image-segmentation/assets/118993192/0bdf80fb-acba-4f3a-ac7d-2cc221cb345e)
+
 
 ## 4. Implementation
 This section delves into the practical aspects of the project's implementation.
